@@ -12,14 +12,11 @@
 
 #### Android
 
-* Java
-* Firebase
-* ML kit
+* Java, Firebase, ML kit
 
 #### Web
 
-* Meteor
-* mongoDB
+* Meteor, mongoDB
 
 #### Server
 
@@ -35,11 +32,7 @@
 
 #### Language
 
-* Java
-* Python
-* Javascript
-* C++
-* C
+* Java, Python, Javascript, C++, C
 
 ## 프로젝트
 
